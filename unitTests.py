@@ -4,7 +4,7 @@
 This script builds a variety of structures using all the major functionality in PeptideBuilder. Compare the generated structures to the provided reference structures to see if everything is correct.
 '''
 
-from __future__ import print_function
+
 from PeptideBuilder import Geometry
 import PeptideBuilder
 import Bio.PDB

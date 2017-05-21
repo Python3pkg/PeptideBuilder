@@ -10,7 +10,7 @@ for the requested amino acid.
 This file is provided to you under the GNU General Public
 License, version 2.0 or later.'''
 
-from __future__ import print_function
+
 import random
 
 class Geo():
